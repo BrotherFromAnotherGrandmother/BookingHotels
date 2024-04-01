@@ -1,0 +1,19 @@
+# Папки
+node_modules/
+__pycache__/
+
+
+venv_fips/
+.venv/
+venv/
+
+dist/
+build/
+.idea/
+
+# Файлы
+.env
+.DS_Store
+*.log
+.pytest_cache/
+empty_doc.xml
