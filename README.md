@@ -1,3 +1,7 @@
+# API для сайта по бронированию отелей
+<img width="1089" alt="image" src="https://github.com/BrotherFromAnotherGrandmother/BookingHotels/assets/101392966/071301ca-0199-4d75-bb6b-fafd2f1b998e">
+
+
 # Hotels
 
 Запуск celery = celery -A app.tasks.celery_app:celery_worker worker --loglevel=INFO
